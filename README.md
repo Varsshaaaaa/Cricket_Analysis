@@ -1,6 +1,4 @@
 # Cricket Analysis using Power BI
-![image](https://github.com/user-attachments/assets/d9b4d18e-ad5e-4dcc-9a49-164d9d408ee4)
-![image (1)](https://github.com/user-attachments/assets/cc793cb2-b205-44f4-b5d6-36ccd285e136)
 
 ## Overview
 This project focuses on analyzing cricket data using Power BI to generate insightful visualizations and reports. The dashboard provides key statistics, player performance metrics, team comparisons, and match trends to help users better understand cricket dynamics.
@@ -46,4 +44,6 @@ The dataset used for this analysis can be sourced from:
 - Advanced predictive modeling using Power BI's AI capabilities.
 - Automated report generation and email notifications.
 
+![image](https://github.com/user-attachments/assets/d9b4d18e-ad5e-4dcc-9a49-164d9d408ee4)
+![image (1)](https://github.com/user-attachments/assets/cc793cb2-b205-44f4-b5d6-36ccd285e136)
 
